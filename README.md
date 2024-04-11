@@ -37,7 +37,7 @@ MIT License Year 2024
 
 Used the following services for the project:
 
-W3C Markup Validation Service https://validator.w3.org/
+W3C Markup Validation Service https://validator.w3.org/ <br>
 W3C CSS Validation Service https://jigsaw.w3.org/css-validator/
 
 <p>
